@@ -1,0 +1,23 @@
+{
+  "name": "node-sales-taxes",
+  "version": "0.0.1",
+  "description": "Test for Lastminute Group",
+  "main": "index.js",
+  "scripts": {
+    "start": "tape  tests/**/*.js",
+    "test": "tape  tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gianlucatursi/node-sales-taxes"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Gianluca Tursi",
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
